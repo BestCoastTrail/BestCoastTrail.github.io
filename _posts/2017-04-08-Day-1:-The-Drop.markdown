@@ -144,8 +144,10 @@ The last few kilometers to Rieveley's Pond is mentally brutal. My mouth tastes k
 We fall asleep to the sound of frogs, wondering what the next day has in store for us. 
 
 <div> 
-  <div style="float: left; margin: 0; max-width:35%"><p style="text-align: right;">Previous: <a href="https://bestcoasttrail.github.io/Day-0-The-Windy-Flight/">Day 0: The Windy Flight</a></p></div>
-  <div style="float: right; max-width:35%"><p style="text-align: right;">Next: <a href="">Day 2: The Rustle</a></p></div>
+  <div style="float: left; margin: 0; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/Day-0-The-Windy-Flight/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Day 0: The Windy Flight</a></p></div>
+  <div style="float: right; max-width:35%"><p style="text-align: right;"><a href="">Day 2: The Rustle <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+
+</a></p></div>
 </div>
 <script>
   function initMap() {
