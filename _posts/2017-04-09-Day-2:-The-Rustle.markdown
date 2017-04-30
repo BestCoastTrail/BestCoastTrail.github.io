@@ -62,8 +62,16 @@ The trail today is feels different from yesterday's. We're at higher elevation, 
   <img data-original="https://farm3.staticflickr.com/2830/33979314080_74d26aba3d_h.jpg" data-action="zoom" class="inline-image"/>
 </figure>
 <figure>
-  <img data-original="https://farm3.staticflickr.com/2830/33979314080_74d26aba3d_h.jpg" data-action="zoom" class="inline-image"/>
+  <img data-original="https://farm5.staticflickr.com/4188/34363696425_c928691d5d_h.jpg" data-action="zoom" class="inline-image"/>
 </figure>
+
+After 5 hours or so of hiking, we are getting near Powell River. I'm starving, thinking about the huge meal I'll be having soon. We go to the first restaurant we see: <a href="http://shinglemill.ca/">Shingle Mill</a>. The food is <em>excellent</em>. I eat a gigantic meal of 
+
+<figure style="width: 50%; margin: auto;">
+  <img data-original="https://farm5.staticflickr.com/4156/33522638024_e2326b3b0a_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>Super tasty beer brewed at Sunshine Coast.</figcaption>
+</figure>
+
 
 
 <div> 
