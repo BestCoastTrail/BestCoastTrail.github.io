@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Justin Lee"
+  avatar           : 
   bio              : 
   location         : 
-  email            :
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -89,10 +89,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : https://github.com/justin0022
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : https://www.instagram.com/justin0022/
   lastfm           :
   linkedin         :
   pinterest        :
