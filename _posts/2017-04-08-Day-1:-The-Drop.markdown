@@ -88,6 +88,20 @@ When the boat comes near, Alex holds onto me as I try to react my bag... And I m
   <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493528587/JUST5120_ixuras.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Also requires no caption.</figcaption>
 </figure>
+After taking a few photos, we were on our way, hiking at a frantic pace. We made it to Sarah Point at roughly 10:30am, and we had 33km to go before getting to Rieveley's Pond. At 4km/hr, it would take us more than 8 hours to get there, without any breaks. 
+<figure>
+  <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493528781/JUST5125_tw13mx.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>Nature is amazing.</figcaption>
+</figure>
+The trail was in great shape, all things considered. The wind storm hadn't caused too much destruction, and it was apparent that the trail had recently been cleared (by Eagle, the founder of the trail, and his amazing team). We were in touch with Eagle before our trip, and he was the person who insisted we need to bring snowshoes. He also gave us detailed information of the general condition of the trail, telling us that the first 80km or so were in good shape. If you're planning a trip, I highly recommend you get in touch with him!
+
+Also, the trail is very well marked. I don't think we lost the trail at all on the first day. 
+
+<figure>
+  <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493528940/JUST5130_ppumia.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>At roughly the 15km mark, we took a quick nut break. Nuts are amazing - nothing is so energy dense. Also, peanut m&amp;m's are a hiker's godsend.</figcaption>
+</figure>
+
 
 <script>
   function initMap() {
@@ -108,7 +122,8 @@ When the boat comes near, Alex holds onto me as I try to react my bag... And I m
     });
     var marker2 = new google.maps.Marker({
       position: loc,
-      map: sarahPointMap
+      map: sarahPointMap,
+      label: 'Sarah Point'
     });
   }
 </script>
