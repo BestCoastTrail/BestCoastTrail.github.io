@@ -48,6 +48,22 @@ I've used my filter in Peru and China without getting sick, so I was confident t
 
 The trail today is feels different from yesterday's. We're at higher elevation, so we get some nice views of the scenary around us. Again, the weather is perfect, sunnier than yesterday and much warmer too. 
 
+<figure>
+  <img data-original="https://farm3.staticflickr.com/2866/34363708735_3439dbe314_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>One of the many lakes we passed.</figcaption>
+</figure>
+<figure>
+  <img data-original="https://farm3.staticflickr.com/2806/33979314260_ba5492bd2a_h.jpg" data-action="zoom" class="inline-image"/>
+</figure>
+<figure>
+  <img data-original="https://farm3.staticflickr.com/2808/34363707715_b286398787_h.jpg" data-action="zoom" class="inline-image"/>
+</figure>
+<figure>
+  <img data-original="https://farm3.staticflickr.com/2830/33979314080_74d26aba3d_h.jpg" data-action="zoom" class="inline-image"/>
+</figure>
+<figure>
+  <img data-original="https://farm3.staticflickr.com/2830/33979314080_74d26aba3d_h.jpg" data-action="zoom" class="inline-image"/>
+</figure>
 
 
 <div> 
