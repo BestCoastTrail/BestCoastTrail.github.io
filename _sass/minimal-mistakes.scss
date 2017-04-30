@@ -73,9 +73,14 @@ img.zoom-img {
   opacity: 1;
 }
 
-p, h1, h2, h3, h4 {
+p, h1, h2, h3, h4, blockquote {
   font-family: 'EB Garamond', serif;
   line-height: 1.625rem;
+}
+
+blockquote {
+  font-size: 1.4em;
+  line-height: 1.5em;
 }
 
 .map {
