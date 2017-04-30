@@ -7,13 +7,13 @@ We wake up early, knowing we have a long day ahead. After taking a wonderful hot
 <h2 style="margin:0;">The plan</h2>
 <ul style="margin:0;">
   <li><p style="margin:0;">Day 1: hike to Rieveley's Pond.</p></li>
-  <li><p style="margin:0;">Day 2: pick up snowshoes and rest of food from campground, and then hike to Inland Lake. </p></li>
+  <li><p style="margin:0;">Day 2: pick up snowshoes and rest of food from campground, and then hike to Inland Lake.</p></li>
   <li><p style="margin:0;">Day 3: hike to Fiddlehead Landing.</p></li>
   <li><p style="margin:0;">Day 4: hike to Tinhat Mountain.</p></li>
-  <li><p style="margin:0;">Day 5: hike to Elk Lake</p></li>
-  <li><p style="margin:0;">Day 6: hike to Walk Hill</p></li>
-  <li><p style="margin:0;">Day 7: hike to Mount Troubridge</p></li>
-  <li><p style="margin:0;">Day 8: complete the hike</p></li>
+  <li><p style="margin:0;">Day 5: hike to Elk Lake.</p></li>
+  <li><p style="margin:0;">Day 6: hike to Walk Hill.</p></li>
+  <li><p style="margin:0;">Day 7: hike to Mount Troubridge.</p></li>
+  <li><p style="margin:0;">Day 8: complete the hike.</p></li>
 </ul>
 <figure> 
   <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493521144/SCT_Map-INSET_Jul30_v5b_h1661f.jpg" data-action="zoom" class="inline-image"/>
