@@ -101,7 +101,7 @@ Also, the trail is very well marked. I don't think we lost the trail at all on t
   <img data-original="https://farm5.staticflickr.com/4181/34204947662_4535186e27_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>At roughly the 12km mark, we took a quick nut break. Nuts are amazing - nothing is so energy dense. Also, peanut m&amp;m's are a hiker's godsend.</figcaption>
 </figure>
-After a surprisingly challenging hike, we finally make it to the first hut of our trail: Manzanita Bluff. Neither of us expected the first part of the trail to be difficult, but there was a decent amount of elevation gain. 
+After a surprisingly challenging hike, we finally make it to the first hut of our trail: Manzanita Bluff. Neither of us expected the first part of the trail to be difficult, but there was a decent amount of elevation gain. We walk through an exceptionally diverse landscape, from old growth to completely uncovered areas due to recent (and ongoing) logging. It is startling to walk through dense forest one minute and logged destruction the next - the change could not be more stark. 
 <figure>
   <img data-original="https://farm3.staticflickr.com/2878/33552777233_da9d75fb9a_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>We took a quick picture in the hut, poke our heads around a little, and continue on our way. PS: Icebreaker headband is awesome</figcaption>
@@ -142,13 +142,13 @@ The last few kilometers to Rieveley's Pond is mentally brutal. My mouth tastes k
   <img data-original="https://farm3.staticflickr.com/2840/34321969296_2e929e8e46_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Nice view out of the second floor of the hut.</figcaption>
 </figure>
+It is getting cold, so Alex and I decide to start a fire. Unfortunately, this proves too difficult for us, as even the matches were hard to light with frozen hands, and so we give up and decide to set up our sleeping gear. 
+
 We fall asleep to the sound of frogs, wondering what the next day has in store for us. 
 
 <div> 
   <div style="float: left; margin: 0; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/Day-0-The-Windy-Flight/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Day 0: The Windy Flight</a></p></div>
-  <div style="float: right; max-width:35%"><p style="text-align: right;"><a href="">Day 2: The Rustle <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-
-</a></p></div>
+  <div style="float: right; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/Day-2-The-Rustle/">Day 2: The Rustle <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></p></div>
 </div>
 <script>
   function initMap() {
