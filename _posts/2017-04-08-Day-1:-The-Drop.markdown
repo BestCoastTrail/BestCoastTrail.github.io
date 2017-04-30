@@ -103,7 +103,7 @@ Also, the trail is very well marked. I don't think we lost the trail at all on t
 After a surprisingly challenging hike, we finally make it to the first hut of our trail: Manzanita Bluff. Neither of us expected the first part of the trail to be difficult, but there was a decent amount of elevation gain. 
 <figure>
   <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493529743/JUST5145_srtmp1.jpg" data-action="zoom" class="inline-image"/>
-  <figcaption>We took a quick picture in the hut, poke our heads around a little, and continue on our way.</figcaption>
+  <figcaption>We took a quick picture in the hut, poke our heads around a little, and continue on our way. PS: Icebreaker headband is awesome</figcaption>
 </figure>
 <figure>
   <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493530396/JUST5162_yrjbui.jpg" data-action="zoom" class="inline-image"/>
@@ -117,7 +117,31 @@ We find a detailed map posted with elevation profiles, and it shows that the las
   <figcaption>I've never been happier to see a sign in my life</figcaption>
 </figure>
 The last few kilometers to Rieveley's Pond is mentally brutal. My mouth tastes kind of funny, and I can't get the thought of putting a sporkful of peanut butter in my mouth out of my mind. I don't even like peanut butter! The last kilometer is the longest kilometer of my life. I am pretty confident I've never been more tired at any point in my life.  
-
+<figure>
+  <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493532113/JUST5168_ogq579.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>Alex questioning his life decisions.</figcaption>
+</figure>
+<figure>
+  <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493532113/JUST5170_uwtzej.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>I'm more tired than I look.</figcaption>
+</figure>
+<figure>
+  <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493532114/JUST5173_ubuh5h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>Rieveley's Pond, home to a billion frogs.</figcaption>
+</figure>
+<figure>
+  <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493532113/JUST5175_cpscua.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>You take the ladders up and sleep on the upper floor. This hut is not insulated.</figcaption>
+</figure>
+<figure>
+  <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493532113/JUST5176_gmziri.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>Blowing up the sleeping pad is usually pretty easy. Wasn't easy today. Nothing was easy.</figcaption>
+</figure>
+<figure>
+  <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493532113/JUST5181_n4y8nz.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>Nice view out of the second floor of the hut.</figcaption>
+</figure>
+We fall asleep to the sound of frogs, wondering what the next day has in store for us. 
 
 <script>
   function initMap() {
