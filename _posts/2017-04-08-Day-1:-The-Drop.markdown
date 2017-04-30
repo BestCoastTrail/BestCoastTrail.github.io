@@ -88,7 +88,7 @@ When the boat comes near, Alex holds onto me as I try to react my bag... And I m
   <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493528587/JUST5120_ixuras.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Also requires no caption.</figcaption>
 </figure>
-After taking a few photos, we were on our way, hiking at a frantic pace. We made it to Sarah Point at roughly 10:30am, and we had 33km to go before getting to Rieveley's Pond. At 4km/hr, it would take us more than 8 hours to get there, without any breaks. 
+After taking a few photos, we were on our way, hiking at a frantic pace. We made it to Sarah Point at roughly 10:30am, and we had 33km to go before getting to Rieveley's Pond. At 4km/hr, it would take us more than 8 hours to get there, without any breaks. Thankfully, the weather was perfect; not too hot or cold, and overcast, with winds calming down. 
 <figure>
   <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493528781/JUST5125_tw13mx.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Nature is amazing.</figcaption>
@@ -96,11 +96,27 @@ After taking a few photos, we were on our way, hiking at a frantic pace. We made
 The trail was in great shape, all things considered. The wind storm hadn't caused too much destruction, and it was apparent that the trail had recently been cleared (by Eagle, the founder of the trail, and his amazing team). We were in touch with Eagle before our trip, and he was the person who insisted we need to bring snowshoes. He also gave us detailed information of the general condition of the trail, telling us that the first 80km or so were in good shape. If you're planning a trip, I highly recommend you get in touch with him!
 
 Also, the trail is very well marked. I don't think we lost the trail at all on the first day. 
-
 <figure>
   <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493528940/JUST5130_ppumia.jpg" data-action="zoom" class="inline-image"/>
-  <figcaption>At roughly the 15km mark, we took a quick nut break. Nuts are amazing - nothing is so energy dense. Also, peanut m&amp;m's are a hiker's godsend.</figcaption>
+  <figcaption>At roughly the 12km mark, we took a quick nut break. Nuts are amazing - nothing is so energy dense. Also, peanut m&amp;m's are a hiker's godsend.</figcaption>
 </figure>
+After a surprisingly challenging hike, we finally make it to the first hut of our trail: Manzanita Bluff. Neither of us expected the first part of the trail to be difficult, but there was a decent amount of elevation gain. 
+<figure>
+  <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493529743/JUST5145_srtmp1.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>We took a quick picture in the hut, poke our heads around a little, and continue on our way.</figcaption>
+</figure>
+<figure>
+  <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493530396/JUST5162_yrjbui.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>Huge root!</figcaption>
+</figure>
+By this point in our hike, we are both getting tired. It is a good kind of tired, the kind you feel after walking for 20km with 25 pounds on your back. It is a long day of hiking, and it is our first time hiking with heavy backpacks. We are going at a good pace, but there is a chance that we won't make it to our hut before sunset. Beacuse the trail is so well-marked, I would be comfortable hiking for a while in the dark with headlamps on, but I'd rather get to the hut, eat, and sleep. 
+<blockquote>"I can't go on. I'll go on". </blockquote>
+We find a detailed map posted with elevation profiles, and it shows that the last 5km to Rieveley's Pond requires 600 meters of elevation gain. At this point, having covered 28km and walked nearly 7 hours continuously, we're both exhausted and hungry. 600 meters is 2/3rds of the Grouse Grind. I repeat the words of the poet Samuel Beckett: "I can't go on. I'll go on". 
+<figure>
+  <img src="http://res.cloudinary.com/best-coast-trail/image/upload/v1493531235/JUST5166_wfgqdr.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>I've never been happier to see a sign in my life</figcaption>
+</figure>
+The last few kilometers to Rieveley's Pond is mentally brutal. My mouth tastes kind of funny, and I can't get the thought of putting a sporkful of peanut butter in my mouth out of my mind. I don't even like peanut butter! The last kilometer is the longest kilometer of my life. I am pretty confident I've never been more tired at any point in my life.  
 
 
 <script>
