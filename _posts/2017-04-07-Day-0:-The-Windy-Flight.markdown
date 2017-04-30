@@ -45,6 +45,8 @@ And after a half-hour walk, we finally arrived in Powell River.
 
 After buying a small can of gas (to make tea during our trip) and enjoying a quick meal at Tim Hortons, we walk to find a cheap motel to stay the night. The first place we find is <a href="http://powellrivermotel.com/">Westview Centre Motel</a>, which is run by an exceptionally kind Korean lady. No vacancy, she tells us. We become slightly concerned at this point, worried that everywhere else is fully booked. She directs us to another motel down the street, <a href="http://www.marineinnbc.com/">Marine Inn</a>, run by a Chinese man who speaks little English. Thankfully, there is room, and we decide to stay the night here. We have a few celebratory beers (first paid time off for both of us!) and go to bed early, since tomorrow will be an early and eventful day. 
 
+<a style="text-align: right;" href="https://bestcoasttrail.github.io/Day-1-The-Drop/">Sunsine Coast Trail Day 1: The Drop</a>
+
 <script>
   function initMap() {
     var uluru = {lat: 49.8352, lng: -124.5247};
