@@ -63,7 +63,7 @@ After struggling for a while, he eventually tells us to walk to the bow of the b
 </figure>
 We're on land now! However, our ordeal isn't over yet - we still need to get our backpacks off the bow. I watch the boat rock from side to side, our unsecured backpacks rocking with it. I'm terrified that our backpacks would slip silently into the sea; beyond effectively ending our trip, my backpack alone contains well over $3000 worth of equipment, and I definitely didn't purchase the "bag dropped in ocean" insurance package.  
 
-When the boat comes near, Alex holds onto me as I try to react my bag... And I miss! It is simply too low. The driver directs me to another part of the rock face that is lower. As I walk over, I very nearly slip off the rock face. Second attempt is a success - I manage to get my bag onto the rock face. Alex's bag is next, and we manage to get that one onto land as well. Filled with relief, we wave to the driver and shout our thanks. We made it. 
+When the boat comes near, Alex holds onto me as I try to reach my bag... And I miss! It is simply too low. The driver directs me to another part of the rock face that is lower. As I walk over, I very nearly slip off the rock face. Second attempt is a success - I manage to get my bag onto the rock face. Alex's bag is next, and we manage to get that one onto land as well. Filled with relief, we wave to the driver and shout our thanks. We made it. 
 <figure>
   <div class="map" id="sarah-point"></div>
   <figcaption>The start of the Sunshine Coast Trail</figcaption>
