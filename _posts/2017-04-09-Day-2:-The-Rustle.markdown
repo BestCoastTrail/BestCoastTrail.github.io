@@ -62,15 +62,64 @@ The trail today is feels different from yesterday's. We're at higher elevation, 
   <img data-original="https://farm3.staticflickr.com/2830/33979314080_74d26aba3d_h.jpg" data-action="zoom" class="inline-image"/>
 </figure>
 <figure>
-  <img data-original="https://farm5.staticflickr.com/4188/34363696425_c928691d5d_h.jpg" data-action="zoom" class="inline-image"/>
+  <img data-original="https://farm3.staticflickr.com/2846/33980329140_bec3296dc0_h.jpg" data-action="zoom" class="inline-image"/>
+</figure>
+<figure>
+  <img data-original="https://farm3.staticflickr.com/2838/33554041793_95fc6ebc24_h.jpg" data-action="zoom" class="inline-image"/>
 </figure>
 
-After 5 hours or so of hiking, we are getting near Powell River. I'm starving, thinking about the huge meal I'll be having soon. We go to the first restaurant we see: <a href="http://shinglemill.ca/">Shingle Mill</a>. The food is <em>excellent</em>. I eat a gigantic meal of 
+After 5 hours or so of hiking, we are getting near Powell River. I'm starving, thinking about the huge meal I'll be having soon. We go to the first restaurant we see: <a href="http://shinglemill.ca/">Shingle Mill</a>. The food is excellent. I eat a gigantic meal of Naan Souvalik Wrap with a side of Seafood Chowder and sip on a delicious beer. After 50km, we deserved it. 
 
 <figure style="width: 50%; margin: auto;">
   <img data-original="https://farm5.staticflickr.com/4156/33522638024_e2326b3b0a_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Super tasty beer brewed at Sunshine Coast.</figcaption>
 </figure>
+
+After our meal, we try half-heartedly to hitchhike back into Powell River, but give up shortly because we're in a bit of a time crunch, since we took our time enjoying the food at the restaurant. So I call a cab, but before it gets to us, a van pulls up, and an elderly lady I recognize from the restaurant insists she'll give us a ride. When I tell her that a cab's on the way, she looks offended and tells me to call and cancel it. I oblidge.  
+
+We learn during the ride that her name's Mary Murphy, and she's an intense lady who tells us about her children and grandchildren, most of whom are either a surgeon, training to become one, or married to one. Her husband is also a retired physician. She waits for us while we gather our snowshoes and food, and then drops us off at Walmart so that we can get some chocolate bars. 
+
+Then, I take Jill up on her offer and give her a call, asking her for a ride to the trailhead at Mowat Bay Park. She immediately agrees, and soon thereafter, Jill and her husband give us a ride to the trailhead. We're grateful to both Jill and her husband and Mary Murphy for their generous help. 
+<figure>
+    <div class="map" id="mowat"></div>
+    <figcaption>And we're back on the trail, with about 12km remaining to our hut</figcaption>
+</figure>
+<figure>
+  <img data-original="https://farm5.staticflickr.com/4188/34363696425_c928691d5d_h.jpg" data-action="zoom" class="inline-image"/>
+</figure>
+The trail hugs Powell River for the first 3-4kms and rewards us with great views. Right around Haywire Bay Regional Park is the first time that we lose the trail for a while. There is a lot of debris on the trail and the markers are scattered everywhere, confusing us, and it takes us half an hour before we're able to find it again. Thankfully, the rest of the trail to the hut is relatively clear and we are able to cover the distance quickly. 
+
+When we reach Inland Lake, it is getting dark. There are two huts at Inland, one on each side of the lake. Ideally, we would stay at the hut on the east side of the lake (called Anthony Island), as this hut is closer to the trail for our Confederation Lake, our next hut, but it is a few kilometers further, and the idea of hiking an extra kilometer after our long day does not appeal to either of us. 
+<figure>
+  <img data-original="https://farm5.staticflickr.com/4160/34242084721_64559746d5_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>The West Inland Hut. Not the nicest hut to stay the night in, but it sure beats a tarp.</figcaption>
+</figure>
+Inside the hut are three elevated wooden platforms - thank goodness, since the ground is muddy. We place our bags on one platform, taking out our food and sleeping gear, and Alex and I each claim the remaining two and get settled for the night. Not too long after making it inside our hut, we can hear rain starting to fall in full force. We eat our bag of nuts and some energy bars, brush our teeth, turn off our headlamps, and get ready to sleep. 
+
+Since the hut is not insulated, occasionally a breeze manages to sneak in. It gets cold, and I'm thankful that I'm dry and have enough layers to stay warm. As I lay there, dozing off, I hear rustling to my right, towards where our gear is. 
+
+"You hear that?" I ask Alex. He murmers an affirmative. I grab my headlamps and turn it on, expecting to see some rodent rummaging our very limited supply of food... And I see nothing. Thinking that it is the breeze, I insert my earplugs, determined to sleep through whatever weird sound nature throws my way. 
+
+Not too long after, Alex turns on his headlamps to investigate more rustling. Again, we see nothing. I tell Alex that it's likely just the wind messing with our minds, insert my ear plugs and try to fall asleep. 
+
+This time, the rustling is too loud to ignore. I quietly reach for my headlamps and turn it on, pointing it towards the source of the disturbance like a weapon. And we both see it running off - a mischievous mouse. To say we're annoyed is an understatement. It is our fault for leaving our food out; the hut has lulled us into a false sense of security. We grudgingly get out of our warm bags and pack everything back into our bags, and as the rain falls with ever increasing intensity, I fall asleep regretting not packing a mouse trap. 
+
+<script>
+  function initMap() {
+    var uluru = {lat: 49.87974, lng: -124.52895};
+    var map = new google.maps.Map(document.getElementById('mowat'), {
+      zoom: 14,
+      center: uluru
+    });
+    var marker = new google.maps.Marker({
+      position: uluru,
+      map: map
+    });
+  }
+</script>
+<script async defer
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5wgqszVxTRSuxb_LYGEy7TlSjuKHoisc&callback=initMap">
+</script>
 
 
 
