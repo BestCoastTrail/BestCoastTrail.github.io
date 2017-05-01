@@ -131,7 +131,7 @@ The last few kilometers to Rieveley's Pond is mentally brutal. My mouth tastes k
   <figcaption>Rieveley's Pond, home to a billion frogs.</figcaption>
 </figure>
 <figure>
-  <img data-original="https://farm5.staticflickr.com/4185/34204949502_32188572f6_h.jpg" data-action="zoom" class="inline-image"/>
+  <img data-original="https://farm3.staticflickr.com/2812/33552777523_72bda489e8_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>You take the ladders up and sleep on the upper floor. This hut is not insulated.</figcaption>
 </figure>
 <figure>
