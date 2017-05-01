@@ -75,7 +75,7 @@ After 5 hours or so of hiking, we are getting near Powell River. I'm starving, t
   <figcaption>Super tasty beer brewed at Sunshine Coast.</figcaption>
 </figure>
 
-After our meal, we try half-heartedly to hitchhike back into Powell River, but give up shortly because we're in a bit of a time crunch, since we took our time enjoying the food at the restaurant. So I call a cab, but before it gets to us, a van pulls up, and an elderly lady I recognize from the restaurant insists she'll give us a ride. When I tell her that a cab's on the way, she looks offended and tells me to call and cancel it. I oblidge.  
+After our meal, we try half-heartedly to hitchhike back into Powell River, but give up shortly because we're in a bit of a time crunch, since we took our time enjoying the food at the restaurant. So I call a cab, but before it gets to us, a van pulls up, and an elderly lady I recognize from the restaurant insists she'll give us a ride. When I tell her that a cab's on the way, she looks offended and tells me to call and cancel it. I oblige.  
 
 We learn during the ride that her name's Mary Murphy, and she's an intense lady who tells us about her children and grandchildren, most of whom are either a surgeon, training to become one, or married to one. Her husband is also a retired physician. She waits for us while we gather our snowshoes and food, and then drops us off at Walmart so that we can get some chocolate bars. 
 
@@ -98,9 +98,9 @@ Inside the hut are three elevated wooden platforms - thank goodness, since the g
 
 Since the hut is not insulated, occasionally a breeze manages to sneak in. It gets cold, and I'm thankful that I'm dry and have enough layers to stay warm. As I lay there, dozing off, I hear rustling to my right, towards where our gear is. 
 
-"You hear that?" I ask Alex. He murmers an affirmative. I grab my headlamps and turn it on, expecting to see some rodent rummaging our very limited supply of food... And I see nothing. Thinking that it is the breeze, I insert my earplugs, determined to sleep through whatever weird sound nature throws my way. 
+"You hear that?" I ask Alex. He murmurs an affirmative. I grab my headlamps and turn it on, expecting to see some rodent rummaging our very limited supply of food... And I see nothing. Thinking that it is the breeze, I insert my earplugs, determined to sleep through whatever weird sound nature throws my way. 
 
-Not too long after, Alex turns on his headlamps to investigate more rustling. Again, we see nothing. I tell Alex that it's likely just the wind messing with our minds, insert my ear plugs and try to fall asleep. 
+Not too long after, Alex turns on his headlamps to investigate more rustling. Again, we see nothing. I tell Alex that it's likely just the wind messing with our minds, insert my earplugs and try to fall asleep. 
 
 This time, the rustling is too loud to ignore. I quietly reach for my headlamps and turn it on, pointing it towards the source of the disturbance like a weapon. And we both see it running off - a mischievous mouse. To say we're annoyed is an understatement. It is our fault for leaving our food out; the hut has lulled us into a false sense of security. We grudgingly get out of our warm bags and pack everything back into our bags, and as the rain falls with ever increasing intensity, I fall asleep regretting not packing a mouse trap. 
 
