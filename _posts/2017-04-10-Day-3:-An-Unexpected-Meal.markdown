@@ -74,6 +74,9 @@ header:
   <img data-original="https://farm3.staticflickr.com/2887/33979312760_9d42206ab5_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Snowing hard outside. In April.</figcaption>
 </figure>
+
+Start of day 4
+
 <figure> 
   <img data-original="https://farm3.staticflickr.com/2847/34363701935_5f4b99014b_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Incredible view from the steps of the cabin the next morning.</figcaption>
