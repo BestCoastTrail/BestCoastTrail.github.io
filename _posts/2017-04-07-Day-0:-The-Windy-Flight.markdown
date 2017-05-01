@@ -6,17 +6,17 @@ header:
 
 After months of planning and preparation, it was finally time for me and Alex to catch our flight to the Sunshine Coast. Our initial plan was to thru-hike the <a href="http://sunshinecoast-trail.com/">entire 180km trail</a> in 8 days, which at around 23km/day sounded reasonable. Unfortunately, the <a href="http://globalnews.ca/news/3230587/b-c-snowfall-records-smashed-this-weekend-as-snow-blankets-province/">record snowfall</a> experienced by the West Coast this winter meant that a good portion of the trail was still covered in snow. A lot of snow, as we would soon find out.
 
-I wake up on the morning of the trip feeling nervous. The weatherman warned of a "winter storm" (it was April, for heaven's sake!) that was to hit the Sunshine Coast with "potentially damaging winds" at exactly the time our flight was to land, so I naturally worried that our flight would get cancelled. After a day of nervously checking the flight status at work, Alex and I get a ride from my wonderful manager (thanks Edmund!) to the <a href="http://www.yvr.ca/en/passengers/flights/airport-south">South Terminal</a> of YVR Airport. It turns out that the South Terminal is roughly a 10 minute car ride away from the main terminal - who knew?!
+I wake up on the morning of the trip feeling nervous. The weatherman warned of a "winter storm" (it was April, for heaven's sake!) that was to hit the Sunshine Coast with "potentially damaging winds" at exactly the time our flight was to land, so I naturally worried that our flight would get cancelled. After a day of nervously checking the flight status at work, Alex and I get a ride from my wonderful manager (thanks Edmund!) to the <a href="http://www.yvr.ca/en/passengers/flights/airport-south">South Terminal</a> of YVR Airport. It turns out that the South Terminal is roughly a 10-minute car ride away from the main terminal - who knew?!
 
 <img data-original="https://res.cloudinary.com/best-coast-trail/image/upload/c_scale,w_410/v1493513298/20170407_065730_ivbk8h.jpg" data-action="zoom" class="inline-image" style="display: block; margin: auto;"/>
 
-Inside the airport is one small restaurant, where Alex and I enjoy a ceremonious last meal: Chicken Wings and Fries. We ate knowing that we were going to be living off 6 different kinds of nuts and chocolate for the next 7 or so days. After a short delay, our 6:35pm flight on <a href="http://www.pacificcoastal.com/">Pacific Coastal Airlines</a> Flight 219 is ready for boarding, without any pesky security checks.
+Inside the airport is one small restaurant, where Alex and I enjoy a ceremonious last meal: Chicken Wings and Fries. We ate knowing that we were going to be living off 6 different kinds of nuts and chocolate for the next 7 or so days. After a short delay, our 6:35 pm flight on <a href="http://www.pacificcoastal.com/">Pacific Coastal Airlines</a> Flight 219 is ready for boarding, without any pesky security checks.
 
 <figure>
   <img data-original="https://res.cloudinary.com/best-coast-trail/image/upload/v1493515069/20170407_184628_jez52s.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Our ride.</figcaption>
 </figure>
-It is, as you can see, a small propellor plane with room for 18. As we walk towards the plane, we can definitely feel the powerful gusts of wind from the storm. Not too reassuring. I'm not afraid of flying, but I do prefer my flights to be uneventful. 
+It is, as you can see, a small propeller plane with room for 18. As we walk towards the plane, we can definitely feel the powerful gusts of wind from the storm. Not too reassuring. I'm not afraid of flying, but I do prefer my flights to be uneventful. 
 
 As we board, Alex hits his head on the ceiling. We sit at the back of the plane, to maximize our <a href="http://time.com/3934663/safest-seat-airplane/">chances of survival</a> in a crash. Paranoid? Yes. Windy? <em>Very Yes</em>.
 
@@ -44,7 +44,7 @@ It is incredibly windy and raining hard, but we're in good spirits, nursing the 
 And after a half-hour walk, we finally arrived in Powell River. 
 <div class="map" id="powell-river"></div>
 
-After buying a small can of gas (to make tea during our trip) and enjoying a quick meal at Tim Hortons, we walk to find a cheap motel to stay the night. The first place we find is <a href="http://powellrivermotel.com/">Westview Centre Motel</a>, which is run by an exceptionally kind Korean lady. No vacancy, she tells us. We become slightly concerned at this point, worried that everywhere else is fully booked. She directs us to another motel down the street, <a href="http://www.marineinnbc.com/">Marine Inn</a>, run by a Chinese man who speaks little English. Thankfully, there is room, and we decide to stay the night here. We have a few celebratory beers (first paid time off for both of us!) and go to bed early, since tomorrow will be an early and eventful day. 
+After buying a small can of gas (to make tea during our trip) and enjoying a quick meal at Tim Hortons, we walk to find a cheap motel to stay the night. The first place we find is <a href="http://powellrivermotel.com/">Westview Centre Motel</a>, which is run by an exceptionally kind Korean lady. No vacancy, she tells us. We become slightly concerned at this point, worried that everywhere else is fully booked. She directs us to another motel down the street, <a href="http://www.marineinnbc.com/">Marine Inn</a>, run by a Chinese man who speaks little English. Thankfully, there is room, and we decide to stay the night here. We have a few celebratory beers (first paid time off for both of us!) and go to bed early since tomorrow will be an early and eventful day. 
 
 <p style="text-align: right;">Next: <a href="https://bestcoasttrail.github.io/Day-1-The-Drop/">Sunsine Coast Trail Day 1: The Drop <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
 </a></p>
