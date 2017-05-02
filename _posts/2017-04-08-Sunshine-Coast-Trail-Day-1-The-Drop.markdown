@@ -150,8 +150,8 @@ It is getting cold, so Alex and I decide to start a fire. Unfortunately, this pr
 We fall asleep to the sound of frogs, wondering what the next day has in store for us. 
 
 <div> 
-  <div style="float: left; margin: 0; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/Sunshine-Coast-Trail-Day-0-The-Windy-Flight/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Day 0: The Windy Flight</a></p></div>
-  <div style="float: right; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/Sunshine-Coast-Trail-Day-2-The-Rustle/">Day 2: The Rustle <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></p></div>
+  <div style="float: left; margin: 0; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/hiking/Sunshine-Coast-Trail-Day-0-The-Windy-Flight/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Day 0: The Windy Flight</a></p></div>
+  <div style="float: right; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/hiking/Sunshine-Coast-Trail-Day-2-The-Rustle/">Day 2: The Rustle <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></p></div>
 </div>
 <script>
   function initMap() {

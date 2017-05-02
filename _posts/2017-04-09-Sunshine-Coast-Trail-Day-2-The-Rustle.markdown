@@ -127,6 +127,6 @@ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD5wgqszVxTRSuxb_LYGEy7TlS
 
 
 <div> 
-  <div style="float: left; margin: 0; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/Sunshine-Coast-Trail-Day-1-The-Drop/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Day 1: The Drop</a></p></div>
-  <div style="float: right; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/Sunshine-Coast-Trail-Day-3-An-Unexpected-Meal/">Day 3: An Unexpected Meal <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></p></div>
+  <div style="float: left; margin: 0; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/hiking/Sunshine-Coast-Trail-Day-1-The-Drop/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Day 1: The Drop</a></p></div>
+  <div style="float: right; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/hiking/Sunshine-Coast-Trail-Day-3-An-Unexpected-Meal/">Day 3: An Unexpected Meal <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></p></div>
 </div>
