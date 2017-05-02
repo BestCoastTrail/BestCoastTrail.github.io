@@ -80,7 +80,7 @@ A veritable eternity later, we finally spot the hut. I'm elated.
   <img data-original="https://farm5.staticflickr.com/4163/33979312830_b764d8ceb0_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Look at this cabin. First class. Insulated. Would AirBnB.</figcaption>
 </figure>
-The first thing we notice about the hut is how nice it looks. The second is that it is occupied <em>with people!</em> There are two of them. This is the last thing I expected after a full day of hiking an isolated and treacherous trail. We chat briefly; I can't recall what - I'm mildly in shock. They invite us in and we trade names. Fiona and Janna. I initially assume that they're seasoned verteran hikers (after all, who else would be crazy enough to be at this hut?!), but it turns out it was their friend, Helena, who pursuaded them to join her on this journey. 
+The first thing we notice about the hut is how nice it looks. The second is that it is occupied <em>with people!</em> There are two of them. This is the last thing I expected after a full day of hiking an isolated and treacherous trail. We chat briefly; I can't recall about what - I'm mildly in shock. They invite us in and we trade names. Fiona and Janna. I initially assume that they're seasoned verteran hikers (after all, who else would be crazy enough to be at this hut?!), but it turns out it was their friend, Helena, who pursuaded them to join her on this journey. 
 <figure> 
   <img data-original="https://farm5.staticflickr.com/4159/33553015133_38b217f4f8_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Making some unexpected friends (Fiona on the right, Janna on the left)</figcaption>
