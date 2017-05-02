@@ -11,12 +11,12 @@ After months of planning and preparation, it was finally time for me and Alex to
 
 I wake up on the morning of the trip feeling nervous. The weatherman warned of a "winter storm" (it was April, for heaven's sake!) that was to hit the Sunshine Coast with "potentially damaging winds" at exactly the time our flight was to land, so I naturally worried that our flight would get cancelled. After a day of nervously checking the flight status at work, Alex and I get a ride from my wonderful manager (thanks Edmund!) to the <a href="http://www.yvr.ca/en/passengers/flights/airport-south">South Terminal</a> of YVR Airport. It turns out that the South Terminal is roughly a 10-minute car ride away from the main terminal - who knew?!
 
-<img data-original="https://res.cloudinary.com/best-coast-trail/image/upload/c_scale,w_410/v1493513298/20170407_065730_ivbk8h.jpg" data-action="zoom" class="inline-image" style="display: block; margin: auto;"/>
+<img data-original="https://res.cloudinary.com/best-coast-trail/image/upload/c_scale,w_410/v1493513298/20170407_065730_ivbk8h.jpg" alt="Justin with his bag on the morning of the trip" data-action="zoom" class="inline-image" style="display: block; margin: auto;"/>
 
 Inside the airport is one small restaurant, where Alex and I enjoy a ceremonious last meal: Chicken Wings and Fries. We ate knowing that we were going to be living off 6 different kinds of nuts and chocolate for the next 7 or so days. After a short delay, our 6:35 pm flight on <a href="http://www.pacificcoastal.com/">Pacific Coastal Airlines</a> Flight 219 is ready for boarding, without any pesky security checks.
 
 <figure>
-  <img data-original="https://res.cloudinary.com/best-coast-trail/image/upload/v1493515069/20170407_184628_jez52s.jpg" data-action="zoom" class="inline-image"/>
+  <img data-original="https://res.cloudinary.com/best-coast-trail/image/upload/v1493515069/20170407_184628_jez52s.jpg" alt="18 seat propellor plane run by Pacific Coastal Airlines" data-action="zoom" class="inline-image"/>
   <figcaption>Our ride.</figcaption>
 </figure>
 It is, as you can see, a small propeller plane with room for 18. As we walk towards the plane, we can definitely feel the powerful gusts of wind from the storm. Not too reassuring. I'm not afraid of flying, but I do prefer my flights to be uneventful. 
@@ -24,24 +24,24 @@ It is, as you can see, a small propeller plane with room for 18. As we walk towa
 As we board, Alex hits his head on the ceiling. We sit at the back of the plane, to maximize our <a href="http://time.com/3934663/safest-seat-airplane/">chances of survival</a> in a crash. Paranoid? Yes. Windy? <em>Very Yes</em>.
 
 <figure>
-  <img data-original="https://res.cloudinary.com/best-coast-trail/image/upload/v1492575715/20170407_184904_1_kohzkw.jpg" data-action="zoom" class="inline-image"/>
+  <img data-original="https://res.cloudinary.com/best-coast-trail/image/upload/v1492575715/20170407_184904_1_kohzkw.jpg" alt="Alex and Justin smile in terror before the windy flight" data-action="zoom" class="inline-image"/>
   <figcaption>Smiles of terror.</figcaption>
 </figure>
 The takeoff was... okay. It was bumpy, but nothing bitterly terrifying. That was to come later.
 <figure>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/-_4PksQZS38" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-_4PksQZS38" alt="Video of the takeoff" frameborder="0" allowfullscreen></iframe>
   <figcaption>Bumpy takeoff.</figcaption>
 </figure>
 The flight to the Sunshine Coast takes a scant 35mins. Although I've heard that the views on this flight are superb, we don't see much other than thick stormy clouds. Not too long after asking us to prepare for takeoff, the pilot asks us to prepare for landing. 
 <figure>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/aBIU3_uXjTA" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aBIU3_uXjTA" alt="Terrifying video of the landing" frameborder="0" allowfullscreen></iframe>
   <figcaption>I would like the viewer to note that this video is image stabilized.</figcaption>
 </figure>
 My first thought: <em>how did he land that!</em> My second thought followed a millisecond later: <em>I'm alive!</em> We applaud the pilots, pick up our bags, and walk to the city centre to pick up a can of gas from Canadian Tire, have a quick dinner, and find a place to stay for the night. We had initially planned to stay at the <a href="http://powellriver.info/willingdon_campground/">Willingdon Beach Campground</a>, but the storm had other plans for us, and even my cuben fiber tarp has its limits. 
 
 It is incredibly windy and raining hard, but we're in good spirits, nursing the adrenaline-high from our recent near-death experience. Here's a video of us shortly after landing:
 <figure>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/0Y1sRZH2whI" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0Y1sRZH2whI" alt="Video of us getting pushed around by stormy winds" frameborder="0" allowfullscreen></iframe>
   <figcaption>We were being pushed around by the strong winds.</figcaption>
 </figure>
 And after a half-hour walk, we finally arrived in Powell River. 
