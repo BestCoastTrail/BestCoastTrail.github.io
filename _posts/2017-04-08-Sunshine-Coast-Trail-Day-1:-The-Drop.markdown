@@ -1,7 +1,10 @@
 ---
 title: "SCT Day 1: The Drop"
+description: after a scary "rock drop", we hike 33km to Rieveley's Pond
 header:
   image: https://farm3.staticflickr.com/2877/33520038694_a04f54b208_h.jpg
+category: [hiking, Sunshine Coast Trail]
+tags: [hiking, Sunshine Coast Trail]
 ---
 
 We wake up early, knowing we have a long day ahead. After taking a wonderful hot shower, thinking "won't have one of these for a while", Alex and I pack up and head to the campground to stash some of our food and our snowshoes, planning to pick them up as we pass through Powell River at roughly the 1/3 mark of the Sunshine Coast Trail. Before getting on with the story, let me outline the plan. 

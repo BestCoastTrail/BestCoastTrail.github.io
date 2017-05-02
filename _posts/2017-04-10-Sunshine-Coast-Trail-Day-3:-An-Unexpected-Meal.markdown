@@ -1,7 +1,10 @@
 ---
 title: "SCT Day 3: An Unexpected Meal"
+description: "after a very difficult, technical, and wet hike, we make some unexpected friends at the luxurious Confederation Lake hut"
 header:
   image: https://farm3.staticflickr.com/2877/33520038694_a04f54b208_h.jpg
+category: [hiking, Sunshine Coast Trail]
+tags: [hiking, Sunshine Coast Trail]
 ---
 <figure style="width: 50%; margin: auto;"> 
   <img data-original="https://farm3.staticflickr.com/2827/33989673330_eb39217d1c_h.jpg" data-action="zoom" class="inline-image"/>
