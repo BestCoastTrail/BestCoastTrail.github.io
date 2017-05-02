@@ -47,6 +47,7 @@ Shortly after we backtrack and get back on the correct trail, we run into heavy 
 <figure style="width: 70%; margin: auto;"> 
   <img data-original="https://farm3.staticflickr.com/2864/34232818681_f9a127bdd0_h.jpg" data-action="zoom" class="inline-image"/>
 </figure>
+<blockquote>The hiking gods are not in a good mood today.</blockquote>
 Then, to add to the difficulty, the trail becomes steep, with dozens of fallen trees in our path thrown in for good measure. The hiking gods are not in a good mood today.
 <figure> 
   <img data-original="https://farm3.staticflickr.com/2805/33521596044_14ac1a5dbc_h.jpg" data-action="zoom" class="inline-image"/>
@@ -67,6 +68,7 @@ It isn't long before we see fresh snow from the previous night. I think we are n
 </figure>
 No, we did not magically teleport from our first sighting of snow to Confederation Lake. That could not be further from the truth. It couldn't have been more than 4-5 km from the photo above to the photo below, but it took us a few <em>hours</em> to reach the hut. Why? Well, it isn't long before the snow starts to pile. No problem: we have snowshoes. But the snow is patchy on the uneven forest floor, and it isn't deep enough to support us all the time. Every step feels like a gamble, with the odds stacked against us. 
 
+<blockquote>It couldn’t have been more than 4-5 km from the photo above to the photo below, but it took us a few hours to reach the hut.</blockquote>
 Alex tells me that he fell through the snow and stepped straight into a nIce cold puddle of water at one point. I don't think we are going much faster than 1 km/hr during this section.  
 
 A veritable eternity later, we finally spot the hut. I'm elated. 
@@ -78,6 +80,22 @@ A veritable eternity later, we finally spot the hut. I'm elated.
   <img data-original="https://farm5.staticflickr.com/4163/33979312830_b764d8ceb0_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Look at this cabin. First class. Insulated. Would AirBnB.</figcaption>
 </figure>
+The first thing we notice about the hut is how nice it looks. The second is that it is occupied <em>with people!</em> There are two of them. This is the last thing I expected after a full day of hiking an isolated and treacherous trail. We chat briefly; I can't recall what - I'm mildly in shock. They invite us in and we trade names. Fiona and Janna. I initially assume that they're seasoned verteran hikers (after all, who else would be crazy enough to be at this hut?!), but it turns out it was their friend, Helena, who pursuaded them to join her on this journey. 
+<figure> 
+  <img data-original="https://farm5.staticflickr.com/4159/33553015133_38b217f4f8_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>Making some unexpected friends (Fiona on the right, Janna on the left)</figcaption>
+</figure>
+Only after reaching Sunshine Coast and speaking to the people at the Visitor Centre did they realize that there was still considerable amounts of snow - they ended up buying snowshoes at the local Canadian tire. Suffice it to say that there are other places in the world they'd rather be. Literally anywhere else. 
+
+They kindly invite us into the hut, which was built late last year and is fully insulated. It is a full 12 degrees warmer inside and features a pellet stove for heating!
+
+Anyway, back to the tale of Fiona, Janna, and Helena. They arrived at the hut yesterday, after staying a night at Anthony hut (they started from Powell River instead of Sarah Point), and Fiona and Janna have had enough by the time they here. Totally understandable; we're very sympathetic, after having just completed the trek ourselves. But Helena <em>is</em> a crazy hiking character, and the entire reason she went on this trip was to get to Tin Hat Hut, located at the peak of Tin Hat Mountain, which at 1200 m is more than 500 m higher than where we're at. So she went ahead, <em>by herself</em>, and promised to be back at this hut by the afternoon tomorrow. 
+
+Initial reaction: <em>good on her for being so determined!</em> Reflective reaction: <em>what the $@>!$$</em>.
+
+Yesterday, I had called my dad to tell him we were fine, and he told me that <a href="http://bc.ctvnews.ca/five-bodies-recovered-after-500-metre-fall-at-mt-harvey-1.3361340">5 snowshoers were killed</a> in a tragic fall at Mount Harvey, in my hometown of North Vancouver. Naturally, I was in a pretty pessimistic frame of mind. 1200 m is the elevation of <a href="https://www.grousemountain.com/">Grouse Mountain</a>, for heaven's sake!
+
+Naturally, Fiona and Janna are worried about their friend, and they've even formulated a plan on how they'd hike down and call S&R if she didn't show up by a certain time tomorrow (there was no cell reception at the hut). 
 
 <figure> 
   <img data-original="https://farm3.staticflickr.com/2855/33553015453_e1ec03b91b_h.jpg" data-action="zoom" class="inline-image"/>
@@ -105,10 +123,6 @@ Start of day 4
 <figure> 
   <img data-original="https://farm3.staticflickr.com/2873/34322271476_f06cddc006_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Delicious, delicious oatmeal.</figcaption>
-</figure>
-<figure> 
-  <img data-original="https://farm5.staticflickr.com/4159/33553015133_38b217f4f8_h.jpg" data-action="zoom" class="inline-image"/>
-  <figcaption>Making some unexpected friends (Fiona on the right, Janna on the left)</figcaption>
 </figure>
 <figure style="width: 70%; margin: auto;"> 
   <img data-original="https://farm3.staticflickr.com/2861/33553014793_5d10edcc5d_h.jpg" data-action="zoom" class="inline-image"/>
