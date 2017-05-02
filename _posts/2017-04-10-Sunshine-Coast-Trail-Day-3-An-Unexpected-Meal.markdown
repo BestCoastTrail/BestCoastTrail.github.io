@@ -52,18 +52,24 @@ Then, to add to the difficulty, the trail becomes steep, with dozens of fallen t
   <img data-original="https://farm3.staticflickr.com/2805/33521596044_14ac1a5dbc_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>The look of a broken man.</figcaption>
 </figure>
-Alex was slowly 
+The trail is wearing down Alex mentally. It's surprising to me, since we did some exceptionally difficult hikes last summer (like Hanes Valley, Crown Mountain, and BCMC in one day!), but then again, this hike is different in its isolation and condition. Unfortunately, the trail is about to get even more challenging. 
 <figure> 
   <img data-original="https://farm5.staticflickr.com/4158/33553016533_797b32178a_h.jpg" data-action="zoom" class="inline-image"/>
 </figure>
 <figure> 
   <img data-original="https://farm5.staticflickr.com/4181/34232829061_7c4516dae3_h.jpg" data-action="zoom" class="inline-image"/>
-  <figcaption>I was in good spirits, just happy to be out of the office :)</figcaption>
+  <figcaption>I, on the other hand, am having the time of my life.</figcaption>
 </figure>
+It isn't long before we see fresh snow from the previous night. I think we are near the 400 meter mark, and since Confederation is close to 700 meters, I suspect that before long we'll be doing some "snow stomping", as Eagle put it. 
 <figure style="width: 70%; margin: auto;"> 
   <img data-original="https://farm5.staticflickr.com/4174/33553016183_875d9f8a15_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Our first encounter with snow. It would not be our last...</figcaption>
 </figure>
+No, we did not magically teleport from our first sighting of snow to Confederation Lake. That could not be further from the truth. It couldn't have been more than 4-5 km from the photo above to the photo below, but it took us a few <em>hours</em> to reach the hut. Why? Well, it isn't long before the snow starts to pile. No problem: we have snowshoes. But the snow is patchy on the uneven forest floor, and it isn't deep enough to support us all the time. Every step feels like a gamble, with the odds stacked against us. 
+
+Alex tells me that he fell through the snow and stepped straight into a nIce cold puddle of water at one point. I don't think we are going much faster than 1 km/hr during this section.  
+
+A veritable eternity later, we finally spot the hut. I'm elated. 
 <figure> 
   <img data-original="https://farm3.staticflickr.com/2863/34232828401_dfb6f398f1_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Finally at Confederation Lake. Getting from where we were in the previous photo to this point was a battle. A silent battle. No energy spared in between for photos.</figcaption>
@@ -72,6 +78,7 @@ Alex was slowly
   <img data-original="https://farm5.staticflickr.com/4163/33979312830_b764d8ceb0_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Look at this cabin. First class. Insulated. Would AirBnB.</figcaption>
 </figure>
+
 <figure> 
   <img data-original="https://farm3.staticflickr.com/2855/33553015453_e1ec03b91b_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>This cabin is bomb. My Therm-A-Rest NeoAir Xlite sleeping pad set up - I highly recommend this pad!</figcaption>
