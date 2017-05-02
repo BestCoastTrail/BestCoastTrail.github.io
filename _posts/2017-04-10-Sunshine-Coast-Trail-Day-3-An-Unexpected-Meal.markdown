@@ -87,6 +87,8 @@ The first thing we notice about the hut is how nice it looks. The second is that
 </figure>
 Only after reaching Sunshine Coast and speaking to the people at the Visitor Centre did they realize that there was still considerable amounts of snow - they ended up buying snowshoes at the local Canadian tire. Suffice it to say that there are other places in the world they'd rather be. Literally anywhere else. 
 
+<blockquote>Suffice it to say that there are other places in the world they'd rather be. Literally anywhere else. </blockquote>
+
 They kindly invite us into the hut, which was built late last year and is fully insulated. It is a full 12 degrees warmer inside and features a pellet stove for heating!
 
 Anyway, back to the tale of Fiona, Janna, and Helena. They arrived at the hut yesterday, after staying a night at Anthony hut (they started from Powell River instead of Sarah Point), and Fiona and Janna have had enough by the time they here. Totally understandable; we're very sympathetic, after having just completed the trek ourselves. But Helena <em>is</em> a crazy hiking character, and the entire reason she went on this trip was to get to Tin Hat Hut, located at the peak of Tin Hat Mountain, which at 1200 m is more than 500 m higher than where we're at. So she went ahead, <em>by herself</em>, and promised to be back at this hut by the afternoon tomorrow. 
