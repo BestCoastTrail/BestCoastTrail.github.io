@@ -3,7 +3,7 @@ title: "SCT Day 1: The Drop"
 description: after a scary "rock drop", we hike 33km to Rieveley's Pond
 header:
   image: https://farm3.staticflickr.com/2877/33520038694_a04f54b208_h.jpg
-category: [hiking, Sunshine Coast Trail]
+category: hiking
 tags: [hiking, Sunshine Coast Trail]
 ---
 

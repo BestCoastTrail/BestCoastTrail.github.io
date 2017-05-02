@@ -3,7 +3,7 @@ title: "SCT Day 0: The Windy Flight"
 description: The day before we attempt to thru-hike the Sunshine Coast Trail
 header:
   image: https://res.cloudinary.com/best-coast-trail/image/upload/v1492574929/20170407_184642_miuvjc.jpg
-category: [hiking, Sunshine Coast Trail]
+category: hiking
 tags: [hiking, Sunshine Coast Trail]
 ---
 

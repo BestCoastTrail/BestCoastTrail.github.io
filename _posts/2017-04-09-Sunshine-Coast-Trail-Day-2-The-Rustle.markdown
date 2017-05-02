@@ -3,7 +3,7 @@ title: "SCT Day 2: The Rustle"
 description: "on day 2 of the Sunshine Coast Trail, we encounter very kind people and a mouse"
 header:
   image: https://farm3.staticflickr.com/2888/33553398643_b8beaefd30_h.jpg
-category: [hiking, Sunshine Coast Trail]
+category: hiking
 tags: [hiking, Sunshine Coast Trail]
 ---
 
