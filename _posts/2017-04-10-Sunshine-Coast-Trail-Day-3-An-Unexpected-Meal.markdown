@@ -6,7 +6,7 @@ header:
 category: hiking
 tags: [hiking, Sunshine Coast Trail]
 ---
-It is still raining hard when I wake up. With that in mind, the first thing I do is change out of my warm and dry merino wool baselayer into still-damp socks and underwear when it's 5 degrees outside. Solid start to the morning. I can already tell it's going to be a long and difficult day. I see that Alex's shoes are in a newly formed puddle of mud.
+It is still raining hard when I wake up. With that in mind, the first thing I do is change out of my warm and dry merino wool base layer into still-damp socks and underwear when it's 5 degrees outside. Solid start to the morning. I can already tell it's going to be a long and difficult day. I see that Alex's shoes are in a newly formed puddle of mud.
 <figure style="width: 50%; margin: auto;"> 
   <img data-original="https://farm3.staticflickr.com/2827/33989673330_eb39217d1c_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>There's something I find captivating about a flame heating up water.</figcaption>
@@ -26,7 +26,7 @@ After a warm cup of tea and a couple scoops of peanut butter and some m&amp;m's,
   <img data-original="https://farm3.staticflickr.com/2890/34215743862_dbdc28de91_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Raindrops.</figcaption>
 </figure>
-We pack up our bags and start hiking. Since we weren't able to make it to Anthony Island hut on the east end of Inland Lake, which is where the trail continues, we have walk the perimeter of the lake to get to Anthony Island, effectively adding another 4 kms to our day. We don't have any definitely plans on which hut we are aiming for today - we are planning to see how we're feeling when we get to Confederation Lake, which is about 13 kms away, and see if there's enough time remaining to make it to Fiddlehead Landing. 
+We pack up our bags and start hiking. Since we weren't able to make it to Anthony Island hut on the east end of Inland Lake, which is where the trail continues, we walk the perimeter of the lake to get to Anthony Island, effectively adding another 4 km to our day. We don't have any definitely plans on which hut we are aiming for today - we are planning to see how we're feeling when we get to Confederation Lake, which is about 13 km away, and see if there's enough time remaining to make it to Fiddlehead Landing. 
 <figure> 
   <img data-original="https://farm3.staticflickr.com/2881/34374139385_8a089843fd_h.jpg" data-action="zoom" class="inline-image"/>
 </figure>
@@ -36,14 +36,14 @@ We pack up our bags and start hiking. Since we weren't able to make it to Anthon
 <figure> 
   <img data-original="https://farm3.staticflickr.com/2848/34332771286_b85ff5680c_h.jpg" data-action="zoom" class="inline-image"/>
 </figure>
-The views along the lake are simply stunning. There is a hint of sun, and I'm hopeful that the weather will improve, because our shoes are already starting to get wet. I'm wearing a relatively new pair of Gore-Tex Salomon trail runners, and it predicably fails to keep the rain out. <a href="http://andrewskurka.com/2016/waterproof-gore-tex-shoes-second-chance-complete-failure/">Gore-Tex doesn't work!</a> My advice? Buy light and breathable trail runners and just suck it up. It'll dry faster. 
+The views of the lake are simply stunning. There is a hint of sun, and I'm hopeful that the weather will improve because our shoes are already starting to get wet. I'm wearing a relatively new pair of Gore-Tex Salomon trail runners, and it predictably fails to keep the rain out. <a href="http://andrewskurka.com/2016/waterproof-gore-tex-shoes-second-chance-complete-failure/">Gore-Tex doesn't work!</a> My advice? Buy light and breathable trail runners and just suck it up. It'll dry faster. 
 
 We eventually get to Anthony Hut, but instead of turning left and continuing on with the trail, we misread the sign as indicating a different trail and continue going straight. It would be another half-hour before we realize our mistake and backtrack. Our supposedly short hike to Confederation Lake is getting longer and longer.
 <figure> 
   <img data-original="https://farm3.staticflickr.com/2839/33979313190_de09d77098_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Some of the brutal trail conditions we had to navigate. By this point, our shoes were completely soaking wet.</figcaption>
 </figure>
-Shortly after we backtrack and get back on the correct trail, we run into heavy trail debris, making it much more difficult to spot the trailmarkers and slowing us down considerably. We need to (ungracefully) dodge, jump, duck, and weave our way through the dense forest. For some parts we're just bushwhacking. 
+Shortly after we backtrack and get back on the correct trail, we run into heavy trail debris, making it much more difficult to spot the trail markers and slowing us down considerably. We need to (ungracefully) dodge, jump, duck, and weave our way through the dense forest. For some parts, we're bushwhacking. 
 <figure style="width: 70%; margin: auto;"> 
   <img data-original="https://farm3.staticflickr.com/2864/34232818681_f9a127bdd0_h.jpg" data-action="zoom" class="inline-image"/>
 </figure>
@@ -53,7 +53,7 @@ Then, to add to the difficulty, the trail becomes steep, with dozens of fallen t
   <img data-original="https://farm3.staticflickr.com/2805/33521596044_14ac1a5dbc_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>The look of a broken man.</figcaption>
 </figure>
-The trail is wearing down Alex mentally. It's surprising to me, since we did some exceptionally difficult hikes last summer (like Hanes Valley, Crown Mountain, and BCMC in one day!), but then again, this hike is different in its isolation and condition. Unfortunately, the trail is about to get even more challenging. 
+The trail is wearing down Alex mentally. It's surprising to me since we did some exceptionally difficult hikes last summer (like Hanes Valley, Crown Mountain, and BCMC in one day!), but then again, this hike is different in its isolation and condition. Unfortunately, the trail is about to get even more challenging. 
 <figure> 
   <img data-original="https://farm5.staticflickr.com/4158/33553016533_797b32178a_h.jpg" data-action="zoom" class="inline-image"/>
 </figure>
@@ -61,7 +61,7 @@ The trail is wearing down Alex mentally. It's surprising to me, since we did som
   <img data-original="https://farm5.staticflickr.com/4181/34232829061_7c4516dae3_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>I, on the other hand, am having the time of my life.</figcaption>
 </figure>
-It isn't long before we see fresh snow from the previous night. I think we are near the 400 meter mark, and since Confederation is close to 700 meters, I suspect that before long we'll be doing some "snow stomping", as Eagle put it. 
+It isn't long before we see fresh snow from the previous night. I think we are near the 400-meter mark, and since Confederation is close to 700 meters, I suspect that before long we'll be doing some "snow stomping", as Eagle put it. 
 <figure style="width: 70%; margin: auto;"> 
   <img data-original="https://farm5.staticflickr.com/4174/33553016183_875d9f8a15_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Our first encounter with snow. It would not be our last...</figcaption>
@@ -80,18 +80,18 @@ A veritable eternity later, we finally spot the hut. I'm elated.
   <img data-original="https://farm5.staticflickr.com/4163/33979312830_b764d8ceb0_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Look at this cabin. First class. Insulated. Would AirBnB.</figcaption>
 </figure>
-The first thing we notice about the hut is how nice it looks. The second is that it is occupied <em>with people!</em> There are two of them. This is the last thing I expected after a full day of hiking an isolated and treacherous trail. We chat briefly; I can't recall about what - I'm mildly in shock. They invite us in and we trade names. Fiona and Janna. I initially assume that they're seasoned verteran hikers (after all, who else would be crazy enough to be at this hut?!), but it turns out it was their friend, Helena, who pursuaded them to join her on this journey. 
+The first thing we notice about the hut is how nice it looks. The second is that it is occupied <em>with people!</em> There are two of them. This is the last thing I expect after a full day of hiking an isolated and treacherous trail. We chat briefly; I can't recall about what - I'm mildly in shock. They invite us in and we trade names. Fiona and Janna. I initially assume that they're seasoned hikers (after all, who else would be crazy enough to be at this hut?!), but it turns out it was their friend, Helena, who persuaded them to join her on this journey. 
 <figure> 
   <img data-original="https://farm5.staticflickr.com/4159/33553015133_38b217f4f8_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Making some unexpected friends (Janna on the left, Fiona on the right)</figcaption>
 </figure>
-They're both Vancouverites, having reached Sunshine Coast via ferry. They tell us that it was only after speaking to the people at the Visitor Centre that they realize that there was still considerable amounts of snow - they ended up buying snowshoes at the local Canadian tire. Suffice it to say there are other places in the world they'd rather be. Literally anywhere else. 
+They're both Vancouverites, having reached Sunshine Coast via ferry. They tell us that it was only after speaking to the people at the Visitor Centre that they realize that there was still considerable amounts of snow - they ended up buying snowshoes at the local Canadian tire. Suffice it to say there are other places in the world they'd rather be. Literally anywhere else. We trade tales of our hike up to Confederation Lake like veterans re
 
 <blockquote>Suffice it to say that there are other places in the world they'd rather be. Literally anywhere else. </blockquote>
 
-They kindly invite us into the hut, which was built late last year and is fully insulated. It is a full 12 degrees warmer inside and features a pellet stove for heating!
+The hut was built last year and is fully insulated. It is a full 12 degrees warmer inside and features a pellet stove for heating!
 
-Anyway, back to the tale of Fiona, Janna, and Helena. They arrived at the hut yesterday, after staying a night at Anthony hut (they started from Powell River instead of Sarah Point), and Fiona and Janna have had enough by the time they here. Totally understandable; we're very sympathetic, having just completed the trek ourselves. But Helena <em>is</em> a crazy hiking character, and the entire reason she went on this trip was to get to Tin Hat Hut, located at the peak of Tin Hat Mountain, which at 1200 m is more than 500 m higher than where we're at. So she went ahead, <em>by herself</em>, and promised to be back at this hut by the afternoon tomorrow. 
+Anyway, back to the story of Fiona, Janna, and Helena. They arrived at the hut yesterday, after staying a night at Anthony hut (they started from Powell River instead of Sarah Point), and Fiona and Janna have had enough by the time they here. Totally understandable; we're very sympathetic, having just completed the trek ourselves. But Helena <em>is</em> a crazy hiking character, and the entire reason she went on this trip was to get to Tin Hat Hut, located at the peak of Tin Hat Mountain, which at 1200 m is more than 500 m higher than where we're at. So she went ahead, <em>by herself</em>, and promised to be back at this hut by the afternoon tomorrow. 
 
 Initial reaction: <em>good on her for being so determined!</em> Reflective reaction: <em>what the $@>!$$</em>.
 
@@ -104,7 +104,7 @@ Fiona and Janna are worried about their friend, and they've even formulated a pl
 </figure>
 They tell us that they packed tons of food and have more than enough to share! Although I love my trail mix and all, I can't turn down a hot meal. This hut is so luxurious that it even comes with a gas-powered stove and some spare cans of gas, so we boil water and Fiona makes us soup for dinner with some rice and beans. After dinner, Alex and I eat some snacks that have been left by previous hikers. The thing about hiking all day is that you never ever really feel full - your body is so calorie-starved and burning so much energy that it really feels like you could eat all day. 
 
-Alex is coming back to life. Nothing is as rejuvenating as a warm meal and the excitment of making some new friends. 
+Alex is coming back to life. Nothing is as rejuvenating as a warm meal and the excitement of making some new friends. 
 <figure> 
   <img data-original="https://farm3.staticflickr.com/2877/34363695735_342f0568bb_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Alex helping with the cooking, sporkful of peanut butter in mouth.</figcaption>
