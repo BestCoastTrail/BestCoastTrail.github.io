@@ -2,7 +2,7 @@
 title: "SCT Day 3: An Unexpected Meal"
 description: "after a very difficult, technical, and wet hike, we make some unexpected friends at the luxurious Confederation Lake hut"
 header:
-  image: https://farm3.staticflickr.com/2877/33520038694_a04f54b208_h.jpg
+  image: https://farm5.staticflickr.com/4189/34258651492_efa9a02a63_h.jpg
 category: hiking
 tags: [hiking, Sunshine Coast Trail]
 ---
@@ -83,9 +83,9 @@ A veritable eternity later, we finally spot the hut. I'm elated.
 The first thing we notice about the hut is how nice it looks. The second is that it is occupied <em>with people!</em> There are two of them. This is the last thing I expected after a full day of hiking an isolated and treacherous trail. We chat briefly; I can't recall about what - I'm mildly in shock. They invite us in and we trade names. Fiona and Janna. I initially assume that they're seasoned verteran hikers (after all, who else would be crazy enough to be at this hut?!), but it turns out it was their friend, Helena, who pursuaded them to join her on this journey. 
 <figure> 
   <img data-original="https://farm5.staticflickr.com/4159/33553015133_38b217f4f8_h.jpg" data-action="zoom" class="inline-image"/>
-  <figcaption>Making some unexpected friends (Fiona on the right, Janna on the left)</figcaption>
+  <figcaption>Making some unexpected friends (Janna on the left, Fiona on the right)</figcaption>
 </figure>
-Only after reaching Sunshine Coast and speaking to the people at the Visitor Centre did they realize that there was still considerable amounts of snow - they ended up buying snowshoes at the local Canadian tire. Suffice it to say that there are other places in the world they'd rather be. Literally anywhere else. 
+They're both Vancouverites, having reached Sunshine Coast via ferry. They tell us that it was only after speaking to the people at the Visitor Centre that they realize that there was still considerable amounts of snow - they ended up buying snowshoes at the local Canadian tire. Suffice it to say there are other places in the world they'd rather be. Literally anywhere else. 
 
 <blockquote>Suffice it to say that there are other places in the world they'd rather be. Literally anywhere else. </blockquote>
 
@@ -97,41 +97,30 @@ Initial reaction: <em>good on her for being so determined!</em> Reflective react
 
 Yesterday, I had called my dad to tell him we were fine, and he told me that <a href="http://bc.ctvnews.ca/five-bodies-recovered-after-500-metre-fall-at-mt-harvey-1.3361340">5 snowshoers were killed</a> in a tragic fall at Mount Harvey, in my hometown of North Vancouver. Naturally, I was in a pretty pessimistic frame of mind. 1200 m is the elevation of <a href="https://www.grousemountain.com/">Grouse Mountain</a>, for heaven's sake!
 
-Naturally, Fiona and Janna are worried about their friend, and they've even formulated a plan on how they'd hike down and call S&R if she didn't show up by a certain time tomorrow (there was no cell reception at the hut). 
-
+Fiona and Janna are worried about their friend, and they've even formulated a plan on how they'd hike down and call S&R if she didn't show up by a certain time tomorrow (there was no cell reception at the hut). 
 <figure> 
   <img data-original="https://farm3.staticflickr.com/2855/33553015453_e1ec03b91b_h.jpg" data-action="zoom" class="inline-image"/>
-  <figcaption>This cabin is bomb. My Therm-A-Rest NeoAir Xlite sleeping pad set up - I highly recommend this pad!</figcaption>
+  <figcaption>This cabin is bomb. My Therm-A-Rest NeoAir Xlite sleeping pad set up upstairs - I highly recommend this pad!</figcaption>
 </figure>
+They tell us that they packed tons of food and have more than enough to share! Although I love my trail mix and all, I can't turn down a hot meal. This hut is so luxurious that it even comes with a gas-powered stove and some spare cans of gas, so we boil water and Fiona makes us soup for dinner with some rice and beans. After dinner, Alex and I eat some snacks that have been left by previous hikers. The thing about hiking all day is that you never ever really feel full - your body is so calorie-starved and burning so much energy that it really feels like you could eat all day. 
+
+Alex is coming back to life. Nothing is as rejuvenating as a warm meal and the excitment of making some new friends. 
 <figure> 
   <img data-original="https://farm3.staticflickr.com/2877/34363695735_342f0568bb_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Alex helping with the cooking, sporkful of peanut butter in mouth.</figcaption>
 </figure>
-<figure> 
-  <img data-original="https://farm5.staticflickr.com/4191/34363702165_fd18ef86bd_h.jpg" data-action="zoom" class="inline-image"/>
-  <figcaption>Classy cabin comes complete with candles. Unintentional alliteration.</figcaption>
-</figure>
+After dinner, we play a fun game of Scrabble. I take too long, but in my defense, <a href="https://arxiv.org/pdf/1201.5298.pdf">Scrabble is PSPACE-Complete!</a> I do manage to win the game though <i class="fa fa-smile-o" aria-hidden="true"></i>. There is another game at the hut that Fiona and Janna are really into - something about naming wine facts. I know exactly two things about wine: red &amp; white. Probably not the best game for me. 
+
+Oh, and during this entire time, we're trying to get the pellet stove fired up. There is a dwindling bag of pellets left, but the limited supply isn't the problem, as it is irritatingly difficult to get it to start. Fiona and Janna were able to start it yesterday, but after a few hours of trying, we're unsuccessful. On the bright side, it still is toasty inside. 
+
+It is snowing heavily outside. Confederation Lake hut isn't just a shelter. It feels like home. I could live here, I think to myself. 
 <figure> 
   <img data-original="https://farm3.staticflickr.com/2887/33979312760_9d42206ab5_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Snowing hard outside. In April.</figcaption>
 </figure>
-
-Start of day 4
-
 <figure> 
-  <img data-original="https://farm3.staticflickr.com/2847/34363701935_5f4b99014b_h.jpg" data-action="zoom" class="inline-image"/>
-  <figcaption>Incredible view from the steps of the cabin the next morning.</figcaption>
+  <img data-original="https://farm5.staticflickr.com/4191/34363702165_fd18ef86bd_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption>Classy cabin comes complete with candles. Unintentional alliteration. In the background are Fiona's pepperoni sticks; what a treat!</figcaption>
 </figure>
-<figure> 
-  <img data-original="https://farm3.staticflickr.com/2873/34322271476_f06cddc006_h.jpg" data-action="zoom" class="inline-image"/>
-  <figcaption>Delicious, delicious oatmeal.</figcaption>
-</figure>
-<figure style="width: 70%; margin: auto;"> 
-  <img data-original="https://farm3.staticflickr.com/2861/33553014793_5d10edcc5d_h.jpg" data-action="zoom" class="inline-image"/>
-  <figcaption>One more of them!</figcaption>
-</figure>
-<figure> 
-  <img data-original="https://farm3.staticflickr.com/2813/34363701095_ce8e99a3db_h.jpg" data-action="zoom" class="inline-image"/>
-  <figcaption>And we're off, once again.</figcaption>
-</figure>
+Darkness falls quickly. I fall asleep even faster. 
 
