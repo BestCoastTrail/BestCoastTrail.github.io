@@ -9,8 +9,8 @@
 locale                   : "en"
 title                    : "Best Coast Trail"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Justin Lee & Alex Nguyen"
+description              : "A blog for hiking and travelling."
 url                      : "https://bestcoasttrail.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -70,14 +70,14 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google"
   google:
-    tracking_id          :
+    tracking_id          : UA-98335513-1
 
 
 # Site Author
 author:
-  name             : "Justin Lee"
+  name             : "Justin Lee & Alex Nguyen"
   avatar           : 
   bio              : 
   location         : 

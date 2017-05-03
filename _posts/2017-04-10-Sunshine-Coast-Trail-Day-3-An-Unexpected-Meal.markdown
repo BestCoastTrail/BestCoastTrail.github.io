@@ -85,7 +85,7 @@ The first thing we notice about the hut is how nice it looks. The second is that
   <img data-original="https://farm5.staticflickr.com/4159/33553015133_38b217f4f8_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Making some unexpected friends (Janna on the left, Fiona on the right)</figcaption>
 </figure>
-They're both Vancouverites, having reached Sunshine Coast via ferry. They tell us that it was only after speaking to the people at the Visitor Centre that they realize that there was still considerable amounts of snow - they ended up buying snowshoes at the local Canadian tire. Suffice it to say there are other places in the world they'd rather be. Literally anywhere else. We trade tales of our hike up to Confederation Lake like veterans re
+They're both Vancouverites, having reached Sunshine Coast via ferry. They tell us that it was only after speaking to the people at the Visitor Centre that they realize that there was still considerable amounts of snow - they ended up buying snowshoes at the local Canadian tire. Suffice it to say there are other places in the world they'd rather be. Literally anywhere else. We trade tales of our hike up to Confederation Lake.
 
 <blockquote>Suffice it to say that there are other places in the world they'd rather be. Literally anywhere else. </blockquote>
 
