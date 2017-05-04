@@ -124,3 +124,7 @@ It is snowing heavily outside. Confederation Lake hut isn't just a shelter. It f
 </figure>
 Darkness falls quickly. I fall asleep even faster. 
 
+<div> 
+  <div style="float: left; margin: 0; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/hiking/Sunshine-Coast-Trail-Day-2-The-Rustle/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Day 2: The Rustle</a></p></div>
+  <!--<div style="float: right; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/hiking/Sunshine-Coast-Trail-Day-3-An-Unexpected-Meal/">Day 3: An Unexpected Meal <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></p></div>-->
+</div>
