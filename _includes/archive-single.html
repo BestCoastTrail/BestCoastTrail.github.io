@@ -22,9 +22,9 @@
   {% if post.read_time %}
     <p class="page__meta" style="margin-top:0;  margin-bottom:0;"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
   {% endif %}
-  {% if post.date %}
-    <p class="page__meta" style="margin-top:0;  margin-bottom:0;"> </p>
+  {% if post.dateOfActivity %}
+    <p class="page__meta" style="margin-top:0;  margin-bottom:0;">{{ post.dateOfActivity }}</p>
   {% endif %}
-  {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description" style="margin-top:0; margin-bottom:3px;">{{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>{% endif %}
+  {% if post.excerpt %}<p itemprop="description" style="margin-top:0; margin-bottom:3px;">{{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>{% endif %}
   {% if post.author %}<p class="author" style="margin-top:0;">By {{ post.author}}</p>{% endif %}
 </div>

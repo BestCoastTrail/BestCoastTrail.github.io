@@ -5,6 +5,7 @@ header:
   image: https://res.cloudinary.com/best-coast-trail/image/upload/v1492574929/20170407_184642_miuvjc.jpg
 category: hiking
 tags: [hiking, Sunshine Coast Trail]
+dateOfActivity: "April 7, 2017"
 excerpt: "Alex and I take a scary plane ride to Sunshine Coast during a storm, preparing ourselves for the hike ahead."
 author: "Justin Lee"
 ---
