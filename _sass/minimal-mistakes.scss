@@ -111,3 +111,17 @@ iframe {
   width: 100%;
   padding: 0;
 }
+
+.imageWithTextOverlay {
+  position: relative;
+}
+
+.textOverlay {
+  position: absolute;
+  bottom: 30px;
+  left: 10px;
+  width: 100%;
+  color: white !important;
+  padding: 10px;
+  line-height: 0;
+}
