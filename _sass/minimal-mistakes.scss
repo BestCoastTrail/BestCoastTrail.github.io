@@ -112,16 +112,24 @@ iframe {
   padding: 0;
 }
 
-.imageWithTextOverlay {
-  position: relative;
+.article {
+  border-bottom: 1.5px solid #e2e2e2;
+  margin-top: 20px;
 }
 
-.textOverlay {
-  position: absolute;
-  bottom: 30px;
-  left: 10px;
-  width: 100%;
-  color: white !important;
-  padding: 10px;
-  line-height: 0;
+h2.textOverlay {
+  margin-top: 10px;
+  color: black;
+  font-size: 1.5em;
+}
+
+p.author {
+  font-size: 0.66rem !important;
+  line-height:1.8rem;
+  text-transform: uppercase;
+  color: #9ba1a6;
+}
+
+p.page__meta {
+  font-size: 0.66rem !important;
 }

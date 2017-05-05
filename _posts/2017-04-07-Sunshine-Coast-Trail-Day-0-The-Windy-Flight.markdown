@@ -5,6 +5,8 @@ header:
   image: https://res.cloudinary.com/best-coast-trail/image/upload/v1492574929/20170407_184642_miuvjc.jpg
 category: hiking
 tags: [hiking, Sunshine Coast Trail]
+excerpt: "Alex and I take a scary plane ride to Sunshine Coast during a storm, preparing ourselves for the hike ahead."
+author: "Justin Lee"
 ---
 
 After months of planning and preparation, it was finally time for me and Alex to catch our flight to the Sunshine Coast. Our initial plan was to thru-hike the <a href="http://sunshinecoast-trail.com/">entire 180km trail</a> in 8 days, which at around 23km/day sounded reasonable. Unfortunately, the <a href="http://globalnews.ca/news/3230587/b-c-snowfall-records-smashed-this-weekend-as-snow-blankets-province/">record snowfall</a> experienced by the West Coast this winter meant that a good portion of the trail was still covered in snow. A lot of snow, as we would soon find out.

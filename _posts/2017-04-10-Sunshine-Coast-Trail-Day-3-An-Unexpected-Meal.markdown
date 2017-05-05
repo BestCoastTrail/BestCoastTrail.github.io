@@ -5,6 +5,9 @@ header:
   image: https://farm5.staticflickr.com/4189/34258651492_efa9a02a63_h.jpg
 category: hiking
 tags: [hiking, Sunshine Coast Trail]
+author: "Justin Lee"
+dateOfActivity: "April 10, 2017"
+excerpt: "The combination of snow, debris, and rain signficantly hinder our journey, but the amazing hut at the end of our hike makes up for it, as we make some unexpected friends and eat a warm meal."
 ---
 It is still raining hard when I wake up. With that in mind, the first thing I do is change out of my warm and dry merino wool base layer into still-damp socks and underwear when it's 5 degrees outside. Solid start to the morning. I can already tell it's going to be a long and difficult day. I see that Alex's shoes are in a newly formed puddle of mud.
 <figure style="width: 50%; margin: auto;"> 

@@ -5,6 +5,9 @@ header:
   image: https://farm3.staticflickr.com/2877/33520038694_a04f54b208_h.jpg
 category: hiking
 tags: [hiking, Sunshine Coast Trail]
+dateOfActivity: "April 8, 2017"
+author: "Justin Lee"
+excerpt: "After a harrowing 'rock-drop', we hike 33 km through ever-changing scenary to make it to Rieveley's Pond"
 ---
 
 We wake up early, knowing we have a long day ahead. After taking a wonderful hot shower, thinking "won't have one of these for a while", Alex and I pack up and head to the campground to stash some of our food and our snowshoes, planning to pick them up as we pass through Powell River at roughly the 1/3 mark of the Sunshine Coast Trail. Before getting on with the story, let me outline the plan. 

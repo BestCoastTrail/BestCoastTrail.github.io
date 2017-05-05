@@ -5,6 +5,9 @@ header:
   image: https://farm3.staticflickr.com/2888/33553398643_b8beaefd30_h.jpg
 category: hiking
 tags: [hiking, Sunshine Coast Trail]
+dateOfActivity: "April 9, 2017"
+author: "Justin Lee"
+excerpt: "Our second day of hiking is made much easier by the kindness of strangers and a delicious meal with craft beer on the side. At night, the rain begins in full force."
 ---
 
 The next morning is cold, only a couple of degrees above freezing. It is painful to get out of my incredibly warm sleeping quilt (thanks <a href="http://www.enlightenedequipment.com/">Enlightened Equipment!</a>) and change out of my sleeping clothes into my cold and still-damp clothes from yesterday. We make some tea, wolf down some scoops of peanut butter, and start on our way. 
