@@ -16,7 +16,7 @@ excerpt: "I've heard so much about Machu Picchu, and I figured it must be overhy
   <figcaption></figcaption>
 </figure>
 <figure>
-  <img data-original="https://farm5.staticflickr.com/4180/33668765563_01c08318ff_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
+  <img data-original="https://farm5.staticflickr.com/4174/33668765603_5ba0b1ee71_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
   <figcaption></figcaption>
 </figure>
 <figure>
