@@ -87,10 +87,6 @@ excerpt: "Cusco, Peru. The highest city I've ever travelled also happens to be m
   <figcaption></figcaption>
 </figure>
 <figure>
-  <img data-original="https://farm5.staticflickr.com/4169/33668769473_de6d23c726_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
-  <figcaption></figcaption>
-</figure>
-<figure>
   <img data-original="https://farm5.staticflickr.com/4166/34318699272_c4f3588c1a_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
   <figcaption></figcaption>
 </figure>
