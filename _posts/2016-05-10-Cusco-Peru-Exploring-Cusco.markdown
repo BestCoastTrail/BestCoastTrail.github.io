@@ -1,5 +1,5 @@
 ---
-title: "Exploring Cusco, Peru: The charming city 3400 meters high"
+title: "Exploring Cusco, Peru: The Charming City 3400 Meters High"
 description: "Exploring Cusco while acclimatizing to the altitude"
 header:
   image: https://farm5.staticflickr.com/4178/33637001274_850f302f01_h.jpg
@@ -10,16 +10,16 @@ author: "Justin Lee"
 dateOfActivity: "May 5, 2016"
 ---
 
-The lack of oxygen was noticeable shortly after landing in <a href="http://www.corpac.gob.pe/">Alejandro Velasco Astete International Airport</a>. 
-
+The lack of oxygen was noticeable shortly after landing in <a href="http://www.corpac.gob.pe/">Alejandro Velasco Astete International Airport</a>. Everything felt slow-motion, with a subtle surreal quality. After exiting the airport, we took a taxi to <a href="http://www.casona-pleiades.com/">Hotel Casona Les Pleiades</a>. Due to the narrow streets of Cusco, some streets are difficult to navigate by car, so my parents and I got dropped off a five minute walk from the hotel. 
 <div class="map" id="cusco"></div>
 <figure>
   <img data-original="https://farm5.staticflickr.com/4194/33668770443_6fc6734aff_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
   <figcaption>How charming is this street?</figcaption>
 </figure>
+We checked into our hotel 
 <figure>
   <img data-original="https://farm5.staticflickr.com/4183/33668770423_8b862478f1_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
-  <figcaption>This city is over 3300 meters above sea level - higher than <a href="http://chis.nrcan.gc.ca/images/volcano-volcan/img1060.jpg">Mount Baker!</a></figcaption>
+  <figcaption>This city is 3400 meters above sea level - higher than <a href="http://chis.nrcan.gc.ca/images/volcano-volcan/img1060.jpg">Mount Baker!</a></figcaption>
 </figure>
 <figure>
   <img data-original="https://farm5.staticflickr.com/4162/33668770363_8df78a3f84_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
