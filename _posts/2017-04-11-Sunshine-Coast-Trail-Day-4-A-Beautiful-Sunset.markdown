@@ -28,4 +28,48 @@ Talk about losing umbrella, scared of bear/elk prints.. probably crampons?
   <img data-original="https://farm3.staticflickr.com/2813/34363701095_ce8e99a3db_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>And we're off, once again.</figcaption>
 </figure>
+<figure> 
+  <img data-original="https://farm5.staticflickr.com/4155/34422164262_02a1d3f818_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption></figcaption>
+</figure>
+<figure> 
+  <img data-original="https://farm5.staticflickr.com/4194/33741034454_fa53b437cd_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption></figcaption>
+</figure>
+<figure> 
+  <img data-original="https://farm5.staticflickr.com/4168/34422164112_ca8fccfcf3_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption></figcaption>
+</figure>
+<figure> 
+  <img data-original="https://farm5.staticflickr.com/4173/33741034324_a845daeafe_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption></figcaption>
+</figure>
+<figure> 
+  <img data-original="https://farm5.staticflickr.com/4194/34422163962_4005ede8d5_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption></figcaption>
+</figure>
+<figure> 
+  <img data-original="https://farm5.staticflickr.com/4194/33741034074_b82011398b_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption></figcaption>
+</figure>
+<figure> 
+  <img data-original="https://farm5.staticflickr.com/4185/34422163862_4037c3e4a4_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption></figcaption>
+</figure>
+<figure> 
+  <img data-original="https://farm5.staticflickr.com/4168/33741034064_70400533e0_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption></figcaption>
+</figure>
+<figure> 
+  <img data-original="https://farm5.staticflickr.com/4161/33741033704_3d355760f7_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption></figcaption>
+</figure>
+<figure> 
+  <img data-original="https://farm5.staticflickr.com/4187/34422163732_5f9c2a81b6_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption></figcaption>
+</figure>
+<figure> 
+  <img data-original="https://farm5.staticflickr.com/4189/33741034584_e5ee3da08b_h.jpg" data-action="zoom" class="inline-image"/>
+  <figcaption></figcaption>
+</figure>
 
