@@ -2,10 +2,12 @@
 title: "SCT Day 4: A beautiful sunset"
 description: "We arrive at Elk Lake Hut after a relatively easy hike and detour"
 header:
-  image: https://farm3.staticflickr.com/2877/33520038694_a04f54b208_h.jpg
+  image: https://farm3.staticflickr.com/2813/34363701095_ce8e99a3db_h.jpg
 category: hiking
 tags: [hiking, Sunshine Coast Trail]
+author: "Alex Nguyen"
 dateOfActivity: "April 11, 2017"
+excerpt: "We wake up to sunlight after indulging in a good amount of sleep. This insulated hut is simply amazing. I think it was a solid 13 degrees inside, which was a privilege compared to the single digit temperatures in the other huts."
 ---
 
 We wake up to sunlight after indulging in a good amount of sleep. This insulated hut is simply amazing. I think it was a solid 13 degrees inside, which was a privilege compared to the single digit temperatures in the other huts. 
@@ -51,5 +53,9 @@ I was really hoping for an insulated hut, but I couldn't complain as we witnesse
   <figcaption>Spectacular view of the sunset from the hut.</figcaption>
 </figure>
 
+<div> 
+  <div style="float: left; margin: 0; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/hiking/Sunshine-Coast-Trail-Day-3-An-Unexpected-Meal/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Day 3: An Unexpected Meal </a></p></div>
+  <div style="float: right; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/hiking/Sunshine-Coast-Trail-Day-5-and-6-Knee-Deep-In-Snow/">Day 5: I don't want to remember this day and home <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></p></div>
+</div>
 
 

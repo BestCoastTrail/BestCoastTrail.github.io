@@ -2,9 +2,12 @@
 title: "SCT Day 5 and 6: I don't want to remember this day and home"
 description: "The last day of hiking and when we head home"
 header:
-  image: https://farm3.staticflickr.com/2877/33520038694_a04f54b208_h.jpg
+  image: https://farm5.staticflickr.com/4187/34422163732_5f9c2a81b6_h.jpg
 category: hiking
 tags: [hiking, Sunshine Coast Trail]
+author: "Alex Nguyen"
+dateOfActivity: "April 12, 2017"
+excerpt: "I wake up to high-pitched shrieking sounds and am quite confused. An animal is running around in proximity to the hut. I guess this is what elk are supposed to sound like? I wrap my sleeping bag around my body and sit up while rocking back and forth due to the cold. "
 ---
 
 I wake up to high-pitched shrieking sounds and am quite confused. An animal is running around in proximity to the hut. I guess this is what elk are supposed to sound like? I wrap my sleeping bag around my body and sit up while rocking back and forth due to the cold. 
@@ -38,3 +41,7 @@ After landing at YVR, we head to Justin's house so that I can drop off some stuf
   <img data-original="https://farm5.staticflickr.com/4189/33741034584_e5ee3da08b_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Post-SCT smiles.</figcaption>
 </figure>
+
+<div> 
+  <div style="float: left; margin: 0; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/hiking/Sunshine-Coast-Trail-Day-4-A-Beautiful-Sunset"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Day 4: A beautiful sunset</a></p></div>
+</div>
