@@ -41,3 +41,7 @@ After landing at YVR, we head to Justin's house so that I can drop off some stuf
   <img data-original="https://farm5.staticflickr.com/4189/33741034584_e5ee3da08b_h.jpg" data-action="zoom" class="inline-image"/>
   <figcaption>Post-SCT smiles.</figcaption>
 </figure>
+
+<div> 
+  <div style="float: left; margin: 0; max-width:35%"><p style="text-align: right;"><a href="https://bestcoasttrail.github.io/hiking/Sunshine-Coast-Trail-Day-4-A-Beautiful-Sunset"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Day 4: A beautiful sunset</a></p></div>
+</div>
