@@ -122,17 +122,27 @@ h2.textOverlay {
   font-size: 1.5em;
 }
 
-p.author {
+.author {
   font-size: 0.66rem !important;
   line-height:1.8rem;
   text-transform: uppercase;
   color: #9ba1a6;
 }
 
-p.page__meta {
+.page__meta {
   font-size: 0.66rem !important;
 }
 
 figure {
   min-height: 200px;
+<<<<<<< HEAD
+=======
+}
+
+.author-date-border {
+  border-top: 1.5px solid #e2e2e2;
+  border-bottom: 1.5px solid #e2e2e2;
+  padding-top: 15px;
+  padding-bottom: 18px;
+>>>>>>> development
 }
