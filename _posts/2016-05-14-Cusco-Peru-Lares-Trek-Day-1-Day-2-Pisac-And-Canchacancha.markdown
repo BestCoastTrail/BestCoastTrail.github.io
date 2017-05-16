@@ -5,6 +5,9 @@ header:
   image: https://farm5.staticflickr.com/4178/33637001274_850f302f01_h.jpg
 category: hiking
 tags: [hiking, lares trek, peru, cusco, trek]
+excerpt: "The Lares Trek"
+author: "Justin Lee"
+dateOfActivity: "May 14, 2016"
 ---
 <figure>
   <img data-original="https://farm5.staticflickr.com/4181/33668769643_cdc9bfe6c0_h.jpg" alt="1" data-action="zoom" class="inline-image"/>

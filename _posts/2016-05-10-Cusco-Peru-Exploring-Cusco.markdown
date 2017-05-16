@@ -47,7 +47,6 @@ We checked into our hotel
 </figure>
 <figure>
   <img data-original="https://farm5.staticflickr.com/4189/33668770093_1d96c9414f_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
-  <figcaption>Cusco's famous markets</figcaption>
 </figure>
 <figure>
   <img data-original="https://farm5.staticflickr.com/4193/33668770023_579b5a2c2b_h.jpg" alt="1" data-action="zoom" class="inline-image"/>

@@ -6,6 +6,8 @@ header:
 category: hiking
 tags: [hiking, lares trek, peru, cusco, trek, machu picchu]
 excerpt: "I've heard so much about Machu Picchu, and I figured it must be overhyped. How wrong I was."
+author: "Justin Lee"
+dateOfActivity: "May 17, 2016"
 ---
 <figure>
   <img data-original="https://farm5.staticflickr.com/4182/33668765653_5e23e75eb0_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
