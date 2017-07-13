@@ -16,7 +16,7 @@ The lack of oxygen was noticeable shortly after landing in <a href="http://www.c
   <img data-original="https://farm5.staticflickr.com/4194/33668770443_6fc6734aff_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
   <figcaption>How charming is this street?</figcaption>
 </figure>
-We checked into our hotel 
+We checked into our hotel, dropped off our bags, and set out to explore the city. Our hotel was situated on a small hill, which at a normal altitude (sea level) would pose no endurance problems, but here, the trek back to the hotel proved challenging. Breathtakingly challenging.  
 <figure>
   <img data-original="https://farm5.staticflickr.com/4183/33668770423_8b862478f1_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
   <figcaption>This city is 3400 meters above sea level - higher than <a href="http://chis.nrcan.gc.ca/images/volcano-volcan/img1060.jpg">Mount Baker!</a></figcaption>
@@ -25,6 +25,7 @@ We checked into our hotel
   <img data-original="https://farm5.staticflickr.com/4162/33668770363_8df78a3f84_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
   <figcaption></figcaption>
 </figure>
+This is the city centre of Cusco, where tourists can mingle with locals and alpacas. 
 <figure>
   <img data-original="https://farm5.staticflickr.com/4161/33668770323_f3c20f05e6_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
   <figcaption>ALPACAS EVERYWHERE</figcaption>
@@ -39,7 +40,7 @@ We checked into our hotel
 </figure>
 <figure>
   <img data-original="https://farm5.staticflickr.com/4155/33668770183_cdd0150072_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
-  <figcaption>How charming is this street?</figcaption>
+  <figcaption></figcaption>
 </figure>
 <figure>
   <img data-original="https://farm5.staticflickr.com/4174/33668770143_a17055e4e4_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
@@ -47,6 +48,7 @@ We checked into our hotel
 </figure>
 <figure>
   <img data-original="https://farm5.staticflickr.com/4189/33668770093_1d96c9414f_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
+  <figcaption>Children playing</figcaption>
 </figure>
 <figure>
   <img data-original="https://farm5.staticflickr.com/4193/33668770023_579b5a2c2b_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
@@ -61,7 +63,7 @@ We checked into our hotel
 </figure>
 <figure>
   <img data-original="https://farm5.staticflickr.com/4174/34318699732_1d307a632f_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
-  <figcaption>Not sure what's going on here...</figcaption>
+  <figcaption>I love caves. This is a poor excuse for a cave</figcaption>
 </figure>
 <figure>
   <img data-original="https://farm5.staticflickr.com/4155/33668769723_4c6bd43400_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
