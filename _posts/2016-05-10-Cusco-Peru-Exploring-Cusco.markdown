@@ -71,7 +71,7 @@ This is the city centre of Cusco, where tourists can mingle with locals and alpa
 </figure>
 <figure>
   <img data-original="https://farm5.staticflickr.com/4172/34318699632_40234189f0_h.jpg" alt="1" data-action="zoom" class="inline-image"/>
-</figure>
+</figure> 
 
 <script>
   function initMap() {
